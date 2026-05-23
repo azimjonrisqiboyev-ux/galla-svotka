@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "viloyat": "Toshkent viloyati",
+    "mavsum": "Kuzgi 2025-2026",
+    "type": "daily",
+    "sana": "2026-05-17",
+    "key": "2026-05-17"
+  },
+  "umumiy": [
+    {
+      "tuman": "Zangiota",
+      "reja": 1774.0,
+      "ekish_f": 1666.0,
+      "sug_f": 1304.0,
+      "unib_ga": 1593.0,
+      "unib_f": 1593.0
+    },
+    {
+      "tuman": "Qibray",
+      "reja": 2741.0,
+      "ekish_f": 2587.0,
+      "sug_f": 1983.0,
+      "unib_ga": 1820.0,
+      "unib_f": 1820.0
+    },
+    {
+      "tuman": "Yuqorichirchiq",
+      "reja": 2721.0,
+      "ekish_f": 2419.0,
+      "sug_f": 1956.0,
+      "unib_ga": 2368.0,
+      "unib_f": 2368.0
+    },
+    {
+      "tuman": "O'rta Chirchiq",
+      "reja": 2726.0,
+      "ekish_f": 2538.0,
+      "sug_f": 2252.0,
+      "unib_ga": 2059.0,
+      "unib_f": 2059.0
+    },
+    {
+      "tuman": "Quyi Chirchiq",
+      "reja": 1416.0,
+      "ekish_f": 1253.0,
+      "sug_f": 987.0,
+      "unib_ga": 1202.0,
+      "unib_f": 1202.0
+    },
+    {
+      "tuman": "Bo'stonliq",
+      "reja": 2397.0,
+      "ekish_f": 2304.0,
+      "sug_f": 2115.0,
+      "unib_ga": 1654.0,
+      "unib_f": 1654.0
+    },
+    {
+      "tuman": "Parkent",
+      "reja": 3221.0,
+      "ekish_f": 2759.0,
+      "sug_f": 2607.0,
+      "unib_ga": 2568.0,
+      "unib_f": 2568.0
+    },
+    {
+      "tuman": "Ohangaron",
+      "reja": 1903.0,
+      "ekish_f": 1752.0,
+      "sug_f": 1629.0,
+      "unib_ga": 1658.0,
+      "unib_f": 1658.0
+    },
+    {
+      "tuman": "Oqqo'rg'on",
+      "reja": 2548.0,
+      "ekish_f": 2317.0,
+      "sug_f": 2202.0,
+      "unib_ga": 1910.0,
+      "unib_f": 1910.0
+    },
+    {
+      "tuman": "Piskent",
+      "reja": 1349.0,
+      "ekish_f": 1324.0,
+      "sug_f": 1025.0,
+      "unib_ga": 977.0,
+      "unib_f": 977.0
+    },
+    {
+      "tuman": "Chinoz",
+      "reja": 1688.0,
+      "ekish_f": 1500.0,
+      "sug_f": 1377.0,
+      "unib_ga": 1377.0,
+      "unib_f": 1377.0
+    },
+    {
+      "tuman": "Bekobod",
+      "reja": 2033.0,
+      "ekish_f": 1856.0,
+      "sug_f": 1779.0,
+      "unib_ga": 1598.0,
+      "unib_f": 1598.0
+    },
+    {
+      "tuman": "Toyloq",
+      "reja": 2987.0,
+      "ekish_f": 2801.0,
+      "sug_f": 2510.0,
+      "unib_ga": 2670.0,
+      "unib_f": 2670.0
+    },
+    {
+      "tuman": "Bo'ka",
+      "reja": 917.0,
+      "ekish_f": 897.0,
+      "sug_f": 895.0,
+      "unib_ga": 796.0,
+      "unib_f": 796.0
+    },
+    {
+      "tuman": "JAMI",
+      "reja": 30421.0,
+      "ekish_f": 27973.0,
+      "sug_f": 0.0,
+      "unib_ga": 24250.0,
+      "unib_f": 24250.0
+    }
+  ],
+  "jami": [
+    {
+      "tuman": "Zangiota",
+      "reja": 2668.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 95.4,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 87.2
+    },
+    {
+      "tuman": "Qibray",
+      "reja": 1299.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 91.9,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 86.9
+    },
+    {
+      "tuman": "Yuqorichirchiq",
+      "reja": 1341.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 97.4,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 75.6
+    },
+    {
+      "tuman": "O'rta Chirchiq",
+      "reja": 1322.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 89.4,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 91.5
+    },
+    {
+      "tuman": "Quyi Chirchiq",
+      "reja": 2499.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 94.9,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 85.4
+    },
+    {
+      "tuman": "Bo'stonliq",
+      "reja": 1629.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 99.2,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 81.9
+    },
+    {
+      "tuman": "Parkent",
+      "reja": 1952.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 96.4,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 90.1
+    },
+    {
+      "tuman": "Ohangaron",
+      "reja": 1590.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 89.4,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 73.6
+    },
+    {
+      "tuman": "Oqqo'rg'on",
+      "reja": 1835.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 92.2,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 91.0
+    },
+    {
+      "tuman": "Piskent",
+      "reja": 1168.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 95.0,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 92.8
+    },
+    {
+      "tuman": "Chinoz",
+      "reja": 1190.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 89.4,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 84.9
+    },
+    {
+      "tuman": "Bekobod",
+      "reja": 2619.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 98.3,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 89.5
+    },
+    {
+      "tuman": "Toyloq",
+      "reja": 2011.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 93.2,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 85.6
+    },
+    {
+      "tuman": "Bo'ka",
+      "reja": 2382.0,
+      "suvli_ga": 0.0,
+      "suvli_f": 86.3,
+      "lalmi_ga": 0.0,
+      "lalmi_f": 70.7
+    }
+  ]
+}
